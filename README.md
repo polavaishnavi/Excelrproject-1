@@ -1,2 +1,2 @@
 # Excelrproject-1
-Excelrproject-1
+OrangeHRMProject
